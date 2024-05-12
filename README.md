@@ -1,1 +1,1 @@
-# Fine-tunning-BERT
+# Fine-tunning-BERT to text classification
